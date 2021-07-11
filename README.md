@@ -1,11 +1,11 @@
 Hi, my name is HerrBrandstetter!
-☕️ Java, woot!
-🇩🇪 German
+☕️ Java, woot!  
+🇩🇪 German  
 🙋‍♂️ He/Him
 
 Stuff I'm working on:
-🔧 Minecraft mods
-👾 Discord bots
+🔧 Minecraft mods  
+👾 Discord bots  
 ..and sometimes other things
 
 Media:
