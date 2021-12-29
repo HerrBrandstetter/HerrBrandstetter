@@ -1,14 +1,9 @@
-*Hi, my name is HerrBrandstetter!*  
-☕️ Java, woot!  
+Hi, my name is HerrBrandstetter!  
+☕️ Java  
 🇩🇪 German  
 🙋‍♂️ He/Him
 
-*Stuff I'm working on:*  
-🔧 Minecraft mods  
-👾 Discord bots  
-..and sometimes other things.
+I sometimes make Minecraft mods  
 
-*Media:*  
-* Reddit: u/herrbrand5583
-* Discord: HerrBrandstetter#5583
+* Discord: HerrBrandstetter#4062
 * Curseforge: https://www.curseforge.com/members/herrbrandstetter
